@@ -7,6 +7,9 @@
     * Average finish time by age and gender
     * Avg 5K split pace (where are runners generally slowing down?) against elevation graph of race course
 
+See full Notebook File Here: https://github.com/Jess625/Boston_Marathon_Data_Analysis/blob/main/Boston_Marathon_Data_Exploration.ipynb
+<br />
+NOTE: ** If Github is not rendering notebook, please see full notebook here: https://nbviewer.jupyter.org/github/Jess625/Boston_Marathon_Data_Analysis/blob/main/Boston_Marathon_Data_Exploration.ipynb
 Data set:<br />
 https://www.kaggle.com/rojour/boston-results <br />
 
