@@ -12,4 +12,5 @@ https://www.kaggle.com/rojour/boston-results <br />
 
 
 ## Findings:
-![Figure 1] (https://github.com/Jess625/Boston_Marathon_Data_Analysis/blob/main/Finishing_times_yoy.png)
+![Figure 1] 
+(/Jess625/Boston_Marathon_Data_Analysis/blob/main/Finishing_times_yoy.png)
